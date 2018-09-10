@@ -1,3 +1,3 @@
-# web_blog
+# web blog
 The goal of this project is to build a web blog system which can be used by anyone for setting up and maintenance of a blog.
 In the blog we have two modules. The first module includes the viewers and the second module includes the admin module. The viewers can view the contents of the blog posted by the admin and comment on the post and search the contents of the blog using search bar. The admin module contains the access of the admin page of the blog. The admin can add new blog post, add new admin, remove existing admin, disapprove or approve comments, delete comments, change the contents of the post etc.
